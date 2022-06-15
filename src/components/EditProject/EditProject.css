@@ -1,0 +1,15 @@
+.addProjectContainer {
+  display: flex;
+  align-items: center;
+}
+
+.fa-arrow-left-long {
+  font-size: 1.3rem;
+  margin-right: 0.6rem;
+}
+
+.back {
+  font-size: 0.9rem;
+  color: #636363;
+  margin-right: 0.6rem;
+}

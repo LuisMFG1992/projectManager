@@ -1,0 +1,47 @@
+.container {
+  display: grid;
+  grid-template-columns: 2.9fr 0.5fr;
+  gap: 0px 0px;
+  border: 1px solid #eaeaea;
+  background: white;
+  padding-left: 1rem;
+}
+
+.red {
+  padding: 0.5rem;
+  color: #636363;
+}
+
+.titel {
+  text-align: left;
+  padding-bottom: 0.2rem;
+}
+
+.creationData {
+  font-size: 0.8rem;
+  text-align: left;
+  padding-bottom: 0.5rem;
+  color: #8c8c8c;
+}
+
+.blue {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+}
+
+.fa-ellipsis-vertical {
+  font-size: 1.6rem;
+}
+
+.imgAndNameContainer {
+  display: flex;
+  align-items: center;
+}
+
+.profilePic {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  margin-right: 0.7rem;
+}
